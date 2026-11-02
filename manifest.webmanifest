@@ -1,0 +1,16 @@
+{
+  "name": "랩스튜디오_윤찬",
+  "short_name": "랩스튜디오",
+  "description": "혼자서 비트 만들고 가사 쓰고 녹음하는 랩 스튜디오",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f1020",
+  "theme_color": "#0f1020",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
